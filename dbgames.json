@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Futuro Strike",
+      "descricao": "Tenha acesso ao mundo virtual",
+      "foto": "ciber1.jpg",
+      "preco": 420
+    },
+    {
+      "id": "2",
+      "produto": "Controle",
+      "descricao": "Controle seu destino com qualidade",
+      "foto": "joybranco.jpg",
+      "preco": 550
+    },
+    {
+      "id": "3",
+      "produto": "Sistema livre - LINUX",
+      "descricao": "Tenha liberdade ao utilizar seu S.O",
+      "foto": "linux1.jpg",
+      "preco": 30
+    },
+    {
+      "id": "4",
+      "produto": "Branco e Preto - NOT",
+      "descricao": "Qualidade, velocidade e charme",
+      "foto": "notbranco.jpg",
+      "preco": 4500
+    },
+    {
+      "id": "6",
+      "produto": "Veloster1",
+      "descricao": "A melhor definição entre velocidade e valor",
+      "foto": "placavd.png",
+      "preco": 2800
+    }
+  ]
+}
